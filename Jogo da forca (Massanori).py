@@ -1,5 +1,5 @@
 # Victor Guilherme Branco Portela
-# Vinicius Henrique dos Santos Rodrigues
+
 
 import random
 
